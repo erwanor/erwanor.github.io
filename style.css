@@ -1,9 +1,18 @@
 body {
     font-family: serif;
-    color: steelblue;
+    color: darkblue;
+    font-size: small;
     background-color: beige;
+}
+
+p {
+    color: darkblue;
 }
 
 a {
     color: black;
+}
+
+arrow {
+    color: navy;
 }
