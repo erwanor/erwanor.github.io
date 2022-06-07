@@ -3,6 +3,9 @@ body {
     color: darkblue;
     font-size: small;
     background-color: beige;
+    background-image: url("selfavoiding.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
 }
 
 p {
